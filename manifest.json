@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0.0",
+  "artifactKind": "reference-table-index-only",
+  "sourceCommit": "99ae5619a30cd0a3e883ddd8da8c23f1199fa416",
+  "mainTableCount": 19,
+  "supplementCount": 14,
+  "indexEntryCount": 33,
+  "groups": [
+    {
+      "group": {
+        "de": "Astronomie",
+        "en": "Astronomy"
+      },
+      "mainTableCount": 2,
+      "supplementCount": 2
+    },
+    {
+      "group": {
+        "de": "Chemie",
+        "en": "Chemistry"
+      },
+      "mainTableCount": 4,
+      "supplementCount": 3
+    },
+    {
+      "group": {
+        "de": "Einheiten",
+        "en": "Units"
+      },
+      "mainTableCount": 3,
+      "supplementCount": 5
+    },
+    {
+      "group": {
+        "de": "Einheiten und Informatik",
+        "en": "Units and computing"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 1
+    },
+    {
+      "group": {
+        "de": "Elektrizität und Stoffdaten",
+        "en": "Electricity and material properties"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 0
+    },
+    {
+      "group": {
+        "de": "Genetik",
+        "en": "Genetics"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 0
+    },
+    {
+      "group": {
+        "de": "Kernphysik",
+        "en": "Nuclear physics"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 0
+    },
+    {
+      "group": {
+        "de": "Naturkonstanten",
+        "en": "Physical constants"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 1
+    },
+    {
+      "group": {
+        "de": "Optik und Stoffdaten",
+        "en": "Optics and material properties"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 0
+    },
+    {
+      "group": {
+        "de": "Stoffdaten",
+        "en": "Material properties"
+      },
+      "mainTableCount": 3,
+      "supplementCount": 0
+    },
+    {
+      "group": {
+        "de": "Umrechnungen",
+        "en": "Conversions"
+      },
+      "mainTableCount": 1,
+      "supplementCount": 2
+    }
+  ],
+  "exportedRowCount": 0,
+  "omittedSourceRowCount": 439,
+  "formulaCountContribution": 0,
+  "locales": [
+    "de",
+    "en"
+  ],
+  "dataFile": "reference-index.json",
+  "schemaFile": "reference-index.schema.json",
+  "dataSha256": "3afd8e03b0e987bef16e3a9078af373293dd29c5082afc18b2551e1e5cad53fd",
+  "urlVerification": {
+    "basis": "current-source-route-contract-and-rendered-anchor-definitions",
+    "liveHttpChecked": false
+  },
+  "checkedOnMeaning": "Unchanged source-declared review date; not a new check by this export. Supplement dates and edition are inherited parent metadata, not independent supplementary review dates.",
+  "excluded": [
+    "rows and cell values",
+    "description",
+    "source notes",
+    "articles",
+    "FAQs",
+    "guides",
+    "worked examples",
+    "blueprints",
+    "calculator implementations",
+    "images and downloads"
+  ],
+  "version": "1.0.0",
+  "distribution": "GitHub data release; no npm package publication",
+  "license": "CC-BY-4.0",
+  "licenseScope": "Only the limited metadata and code actually included in this repository. Referenced sites, primary source works, Quanta Study articles and application code are outside this grant.",
+  "sourceUrl": "https://quanta-study.de/tafelwerk",
+  "datasetHomepage": "https://quanta-study.de/en/formula-sheet",
+  "repository": "https://github.com/ammmcreativetech-dot/quanta-reference-tables-index"
+}

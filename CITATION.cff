@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite the exact metadata-index version and preserve primary-source references."
+type: dataset
+title: "Quanta Study reference table metadata index"
+version: 1.0.0
+authors:
+  - name: "AM Creative Tech UG (haftungsbeschränkt)"
+repository-code: "https://github.com/ammmcreativetech-dot/quanta-reference-tables-index"
+url: "https://quanta-study.de/tafelwerk"
+license: CC-BY-4.0
